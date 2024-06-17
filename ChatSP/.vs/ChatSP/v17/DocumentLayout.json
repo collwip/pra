@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ChatSP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{457177FC-5E1B-46A6-B2F0-3B5399C68971}|ChatSP.csproj|g:\\chatsp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{457177FC-5E1B-46A6-B2F0-3B5399C68971}|ChatSP.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457177FC-5E1B-46A6-B2F0-3B5399C68971}|ChatSP.csproj|G:\\ChatSP\\appconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457177FC-5E1B-46A6-B2F0-3B5399C68971}|ChatSP.csproj|solutionrelative:appconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457177FC-5E1B-46A6-B2F0-3B5399C68971}|ChatSP.csproj|G:\\ChatSP\\mainpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457177FC-5E1B-46A6-B2F0-3B5399C68971}|ChatSP.csproj|solutionrelative:mainpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457177FC-5E1B-46A6-B2F0-3B5399C68971}|ChatSP.csproj|G:\\ChatSP\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457177FC-5E1B-46A6-B2F0-3B5399C68971}|ChatSP.csproj|solutionrelative:login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457177FC-5E1B-46A6-B2F0-3B5399C68971}|ChatSP.csproj|G:\\ChatSP\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457177FC-5E1B-46A6-B2F0-3B5399C68971}|ChatSP.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457177FC-5E1B-46A6-B2F0-3B5399C68971}|ChatSP.csproj|G:\\ChatSP\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{457177FC-5E1B-46A6-B2F0-3B5399C68971}|ChatSP.csproj|solutionrelative:login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457177FC-5E1B-46A6-B2F0-3B5399C68971}|ChatSP.csproj|G:\\ChatSP\\registratio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{457177FC-5E1B-46A6-B2F0-3B5399C68971}|ChatSP.csproj|solutionrelative:registratio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457177FC-5E1B-46A6-B2F0-3B5399C68971}|ChatSP.csproj|G:\\ChatSP\\mainpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{457177FC-5E1B-46A6-B2F0-3B5399C68971}|ChatSP.csproj|solutionrelative:mainpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457177FC-5E1B-46A6-B2F0-3B5399C68971}|ChatSP.csproj|G:\\ChatSP\\registratio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457177FC-5E1B-46A6-B2F0-3B5399C68971}|ChatSP.csproj|solutionrelative:registratio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\ChatSP\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "G:\\ChatSP\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T19:28:09.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppConnect.cs",
+              "DocumentMoniker": "G:\\ChatSP\\AppConnect.cs",
+              "RelativeDocumentMoniker": "AppConnect.cs",
+              "ToolTip": "G:\\ChatSP\\AppConnect.cs",
+              "RelativeToolTip": "AppConnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:28:09.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage1.xaml.cs",
+              "DocumentMoniker": "G:\\ChatSP\\MainPage1.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage1.xaml.cs",
+              "ToolTip": "G:\\ChatSP\\MainPage1.xaml.cs",
+              "RelativeToolTip": "MainPage1.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:28:09.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\ChatSP\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "G:\\ChatSP\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-06-14T19:28:09.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "G:\\ChatSP\\Login.xaml",
+              "RelativeDocumentMoniker": "Login.xaml",
+              "ToolTip": "G:\\ChatSP\\Login.xaml",
+              "RelativeToolTip": "Login.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T19:28:09.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "G:\\ChatSP\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Login.xaml.cs",
+              "ToolTip": "G:\\ChatSP\\Login.xaml.cs",
+              "RelativeToolTip": "Login.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:28:09.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registratio.xaml",
+              "DocumentMoniker": "G:\\ChatSP\\Registratio.xaml",
+              "RelativeDocumentMoniker": "Registratio.xaml",
+              "ToolTip": "G:\\ChatSP\\Registratio.xaml",
+              "RelativeToolTip": "Registratio.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T19:28:09.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage1.xaml",
+              "DocumentMoniker": "G:\\ChatSP\\MainPage1.xaml",
+              "RelativeDocumentMoniker": "MainPage1.xaml",
+              "ToolTip": "G:\\ChatSP\\MainPage1.xaml",
+              "RelativeToolTip": "MainPage1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T19:28:09.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Registratio.xaml.cs",
+              "DocumentMoniker": "G:\\ChatSP\\Registratio.xaml.cs",
+              "RelativeDocumentMoniker": "Registratio.xaml.cs",
+              "ToolTip": "G:\\ChatSP\\Registratio.xaml.cs",
+              "RelativeToolTip": "Registratio.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAlwC0AAAAUAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-06-14T19:28:09.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
